@@ -49,5 +49,5 @@ for column in ["viral_copies_vlowIU_lowDF",
     output["48h_"+column] = vals48;
                
 
-output.to_csv("output/viral_counts_dieoff.csv", sep=",", index=False);
+output.to_csv("output/viral_counts_survival.csv", sep=",", index=False);
 
