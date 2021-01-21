@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue May 19 15:42:11 2020
 
-@author: verwirrt
+"""
+This script calculated the 24 hour and 48 hour percentage survival of the
+virus in water. It uses the temperature model described in section 2.5 and
+equations 6 and 7. Results are presented in figure 1c and table 1.
 """
 
 #import numpy as np;

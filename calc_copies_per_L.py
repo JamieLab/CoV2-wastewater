@@ -1,15 +1,18 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue May 19 15:42:11 2020
 
-@author: verwirrt
+"""
+This script calculates the number of viable virus copies in natural water
+systems resulting from an untreated sewage spill (Cspill, equation 5).
+The output is presented in figure 2.
+
+An excel tool is provided in the GitHub repository which performs the same
+calculation.
 """
 
 #import numpy as np;
 import pandas as pd;
 import numpy as np;
-from os import path;
 
 
 inputDir = "input_data/";

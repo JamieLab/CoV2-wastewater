@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue May 19 15:42:11 2020
 
-@author: verwirrt
 """
+This script calculates the relative risk (Hc*, equation 1) and
+normalised relative risk metrics (Hc, equation 2, figure 1a and 1b)
+"""
+
 
 #import numpy as np;
 import pandas as pd;
