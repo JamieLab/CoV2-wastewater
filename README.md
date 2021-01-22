@@ -1,6 +1,8 @@
 # Infection risk and temperature driven survival of SARS CoV-2 in water
 
-This repository contains tools for calculating the relative risk, temperature related virus survival and expected number of infectious virus copies in waste water for SARS CoV-2.
+This repository contains tools for calculating the relative risk, temperature related virus survival and expected number of infectious virus copies in waste water for SARS CoV-2. The approach is described within a journal paper that is currently in review. An early (non peer-reviewed) version of the journal paper is available as Shutler et al., (2019).
+
+Shutler et al. (2019) Risk of SARS-CoV-2 infection from contaminated water systems, MedRxiv, https://www.medrxiv.org/content/10.1101/2020.06.17.20133504v1 
 
 File descriptions:
 
