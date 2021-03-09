@@ -4,7 +4,8 @@ This repository contains tools for calculating the relative risk, temperature re
 
 Shutler JD, Zaraska K, Holding T, Machnik M, Uppuluri K, Ashton IGC, Migdał Ł, Dahiya RS (2021). Rapid Assessment of SARS-CoV-2 Transmission Risk for Fecally Contaminated River Water. ACS ES&T Water, https://pubs.acs.org/doi/10.1021/acsestwater.0c00246
 
-File descriptions:
+
+# File descriptions
 
 calc_relative_risk.py - calculates the relative risk of CoV-2 transmission from waste water spills for different countries.
 
