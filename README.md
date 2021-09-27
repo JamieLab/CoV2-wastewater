@@ -1,6 +1,6 @@
-# Infection risk and temperature driven survival of SARS-CoV-2 from and within faecally contaminated water
+# Transmission risk and temperature driven survival of SARS-CoV-2 from and within faecally contaminated water
 
-This repository contains tools for calculating the relative risk, temperature related virus survival and expected number of infectious virus copies in waste water for SARS CoV-2. The approach is described within a published (and extensively peer-reviewed) journal paper (Shutler et al., 2021). An earlier version of the work was also published as pre-print, but the fully open access paper, Shutler et al (2021) linked below, should be referenced when viewing and using the software tools listed here.
+This repository contains tools for calculating the relative transmission risk, temperature related virus survival and expected number of infectious virus copies in waste water for SARS CoV-2. The approach is described within a published (and extensively peer-reviewed!) journal paper (Shutler et al., 2021). An earlier version of the work was also published as pre-print, but the fully open access paper, Shutler et al (2021) linked below, should be referenced when viewing and using the software tools listed here.
 
 Shutler JD, Zaraska K, Holding T, Machnik M, Uppuluri K, Ashton IGC, Migdał Ł, Dahiya RS (2021). Rapid Assessment of SARS-CoV-2 Transmission Risk for Fecally Contaminated River Water. ACS ES&T Water, https://pubs.acs.org/doi/10.1021/acsestwater.0c00246
 
